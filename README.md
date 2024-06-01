@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @datafitness AKA Subhayan
+- 👋** Hi, **
+**I’m @datafitness AKA Subhayan**
+
 - 👀 I’m interested in playing with Data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me :subhayanbasu2@gmail.com
+- ⚡ Fun fact: Love exploring
 
 <!---
 datafitness/datafitness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
